@@ -19,4 +19,20 @@
 > * Ród Borynów należy do `"quasi-arystokracji"`, czyli pozornej arystokracji (jest po prostu bogatym chłopem)  
 > * Maciej Boryna mimo swojego wieku (58 lat) jest krzpeki, silny, da radę podołać każdej pracy.  
 > * Jest surowy względem parobków (Witka i Kuby), posuwa się nawet do rękoczynów.  
-> * Maciej nie chce [`pójść na wycug`](słownik-polski.md#pójść%20na%20wycug), ponieważ obawia się że zostanie potraktowany tak jak na przykład Jagustynka, oraz uważa że sam zajmie się tą ziemią najlepiej
+> * Maciej nie chce [`pójść na wycug`](słownik-polski.md#pójść-na-wycug), ponieważ obawia się że zostanie potraktowany tak jak na przykład Jagustynka, oraz uważa że sam zajmie się tą ziemią najlepiej
+> * Najważniejsze były dla niego dobra materialne
+> * Traktuje małżeństwo jako sposób na zaspokojenie pragnień, oraz jako demonstrację siły.
+> * Jest:
+>   * Nieustępliwy
+>   * Hardy
+>   * Wzbudza respekt wśród wiejskiej gromady
+>   * Impulsywny
+> * ## `Scena śmierci Boryny jest sceną symboliczną`
+
+> ## Antek:
+> * Impulsywny
+> * Chciwy (chce jak najszybciej dostać na własność należny mu fragment ziemi)
+> * Niedocenia swojej żony Hanki
+
+## Zadanie:
+> 3 cechy Hanki, Jagusi, Kuby, Jagustynki, Dominikowej
