@@ -4,6 +4,9 @@
 Link do równań > http://www.sciweavers.org/free-online-latex-equation-editor
 -->
 
+# Spis treści:
+> * [19.10.2020](#<center>19.10.2020)
+
 ---
 
 # <center>19.10.2020
