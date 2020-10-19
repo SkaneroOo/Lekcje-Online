@@ -1,13 +1,6 @@
-<style>
-redunder {
-  text-decoration: underline;<redunder>
-  text-decoration-color: red;
-}
-</style>
-
 # <center>Matematyka</center>
 <!---
-![equation](url)   <--- do wstawiania równań<redunder>
+![equation](url)   <--- do wstawiania równań*
 Link do równań > http://www.sciweavers.org/free-online-latex-equation-editor
 -->
 
@@ -19,12 +12,12 @@ Link do równań > http://www.sciweavers.org/free-online-latex-equation-editor
 
 > ## Zad 4  
 >a)  
->><redunder>**A=`1/8`**  
->><redunder>**B=`1/5`**
+>>***A=`1/8`***  
+>>***B=`1/5`***
 
 > ## Zad 5  
 >a)  
->> <redunder>**Tak**  
+>> ***Tak***  
 >
 >b)  
 >> P(A') == `3/4`  
@@ -33,25 +26,25 @@ Link do równań > http://www.sciweavers.org/free-online-latex-equation-editor
 >> P(B) == `5/12`  
 >> P(A∩B) == `1/12`  
 >> P(A∪B) == `5/12` == `7/12`  
->> <redunder>**P(A'∪B') == `5/12`**
+>> ***P(A'∪B') == `5/12`***
 
 ---
 
 > ## Zad 2 (?)
 > a)
 >> `4/5 + 1/4` == `21/20` > 1  
->> <redunder>**Nie**
+>> ***Nie**
 >
 > b)
 >> `2/3 + 1/5` == `13/15` < 1  
->> <redunder>**Tak**
+>> ***Tak**
 
 > ## Zad 4
 > a)
->> `3/8 - 1/4` == <redunder>**1/8**
+>> `3/8 - 1/4` == ***1/8***
 >
 > b)
->> `9/10 - 7/10` == <redunder>**1/5**
+>> `9/10 - 7/10` == ***1/5***
 
 > ## Zad 6
 >> A = `6*5`  
@@ -69,5 +62,5 @@ Link do równań > http://www.sciweavers.org/free-online-latex-equation-editor
 A = `25`  
 B = `"Liczby podzielne przez 3"`  
 B = `16`  
-A∩B = ``
-A∪B = ``
+A∩B = ` `  
+A∪B = ` `
