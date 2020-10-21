@@ -2,7 +2,7 @@
 
 # Spis treści:
 > * [15.10.2020](#<center>15.10.2020)
-> * [19.10.2020](#<center>19.10.2020)
+> * [19.10.2020 - Chłopi - Kronika życia wiejskiego](#<center>19.10.2020)
 
 ---
 
