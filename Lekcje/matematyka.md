@@ -88,7 +88,7 @@ Link do równań > http://www.sciweavers.org/free-online-latex-equation-editor
 
 ---
 
-# <center>19.10.2020
+# <center>26.10.2020
 
 ---
 
@@ -107,4 +107,9 @@ Link do równań > http://www.sciweavers.org/free-online-latex-equation-editor
 
 > ## Ćw. 1
 >> a)  
->> 
+>> B1 - `śróby od I kooperatora`  
+>> B1 - `śróby od II kooperatora`  
+>> A - `losowa śróba jest wadliwa`  
+>> P(A) = `P(B1) * P(A | B1) + P(B2) * P(A | B2)`  
+>> Nie chce mi się pisać, ale najlepiej rozrysować sobie drzewko:  
+>> ![drzewo](https://cdn.discordapp.com/attachments/706806799348531200/770220225433829406/unknown.png)
