@@ -1,9 +1,9 @@
 # <center>Polski</center>
 
 # Spis treści:
-> * [15.10.2020](#<center>15.10.2020)
+> * [15.10.2020 - Notatka z Chłopów](#<center>15.10.2020)
 > * [19.10.2020 - Chłopi - Kronika życia wiejskiego](#<center>19.10.2020)
-> * [23.10.2020](#<center>23.10.2020)
+> * [23.10.2020 - Zło w Chłopach](#<center>23.10.2020)
 
 ---
 
@@ -70,3 +70,24 @@
 >> - Grzesznik zawsze zostanie ukarany przez Boga
 >   
 > Sytuacja Antka ilustruje konflikt między zasadami organizującymi życie w gromadzie a indywidualnymi pragnieniami. Sytuacja ta rozpatrywana jest w kategoriach tragizmu (ma wymiar tragiczny) przede wszystkim dlatego, że Antek ma świadomość tego, że jego pragnienia kolidują z zasadami moralnymi i z katolicka etyką seksualną.
+
+---
+
+# <center>26.10.2020
+
+---
+
+> Pdr. str. 154  
+> **Rodzina w Chłopach** – rodzina tradycyjna, model tradycyjnej rodziny chłopskiej  
+> # Cechy:  
+>> **hierarchiczność** – starsi są na górze, a kobiety zawsze są stopniem niżej;  
+>> **patriarchalność**;  
+>> **chrześcijańska sakralizacja związku** (małżeństwo jest instytucją świętą, najważniejszy element społeczności);  
+>> **monogamiczność**;  
+>> **opresyjność** – ograniczający czyjeś prawa, wolności;  
+>> **życie zgodne z rytmem natury i z tradycją**  
+> ## Konflikty:  
+>> * Maciej – Antek – o ziemię   
+>> * Kozioł – Dominikowa – o świnie  
+>> * Ewka – Boryna – o ojcostwo  
+>> * Weronka – Hanka – o ojca  

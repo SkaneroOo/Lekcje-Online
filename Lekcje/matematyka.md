@@ -113,3 +113,6 @@ Link do równań > http://www.sciweavers.org/free-online-latex-equation-editor
 >> P(A) = `P(B1) * P(A | B1) + P(B2) * P(A | B2)`  
 >> Nie chce mi się pisać, ale najlepiej rozrysować sobie drzewko:  
 >> ![drzewo](https://cdn.discordapp.com/attachments/706806799348531200/770220225433829406/unknown.png)
+>
+> ## Ćw. 2
+>> Tak samo jak ćw. 1 (znowu nie chce mi się pisać XD)
