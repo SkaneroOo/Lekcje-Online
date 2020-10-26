@@ -6,6 +6,7 @@ Link do równań > http://www.sciweavers.org/free-online-latex-equation-editor
 
 # Spis treści:
 > * [19.10.2020](#<center>19.10.2020)
+> * [26.10.2020](#<center>26.10.2020)
 
 ---
 
@@ -84,3 +85,26 @@ Link do równań > http://www.sciweavers.org/free-online-latex-equation-editor
 >> D = `"Uczniowie, którzy nic nie lubią"`  
 >> D == `30`  
 >> P(D) == `30/200` == `3/20`
+
+---
+
+# <center>19.10.2020
+
+---
+
+## Prawdopodobieństwo całkowite
+
+![zbiory](https://cdn.discordapp.com/attachments/770214629208621067/770214647390273546/unknown.png)
+
+> 1) B1 ∪ B2 ∪ B3 = Ω
+> 2) P(Bn) > 0   n = {1, 2, 3}
+> 3) Bi ∩ Bj = Ø   i=/=j
+
+> `A = (A ∩ B1) ∪ (A ∩ B2) ∪ (A ∩ B3)`  
+> `P(A) = P(A ∩ B1) + P(A ∩ B2) + P(A ∩ B3)`  
+> 
+> `P(A) = P(B1) * P(A | B1) + P(B2) * P(A | B2) + P(B3) * P(A | B3)`  
+
+> ## Ćw. 1
+>> a)  
+>> 

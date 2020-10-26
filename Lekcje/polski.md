@@ -3,6 +3,7 @@
 # Spis treści:
 > * [15.10.2020](#<center>15.10.2020)
 > * [19.10.2020 - Chłopi - Kronika życia wiejskiego](#<center>19.10.2020)
+> * [23.10.2020](#<center>23.10.2020)
 
 ---
 
@@ -40,3 +41,32 @@
 
 ## Zadanie:
 > 3 cechy Hanki, Jagusi, Kuby, Jagustynki, Dominikowej
+
+---
+
+# <center>23.10.2020
+
+---
+
+> ## Naturalizm
+> podręcznik str 74 i 216
+>  
+>  
+> Człowiek to istota poddana elementom świata natury, a to znaczy że podlega sile instynktów i popędów biologicznych, ale należy także do świata kultury.  
+> kultura to system zasad, pojęć i idei stanowiący zbiór podstawowych norm organizujących życie społeczne człowieka.  
+> Podręcznik str 155  
+>   
+>> Chłopi dyskutując o prawadzeniu się Jagusi mówią, że to że baraszkuje z Antkiem jest przekroczeniem pewnej granicy, bo to że wpuszcza kogokolwiek pod pierzynę jest złe, ale robienie tego mimo że Antek ma żonę jest przekroczeniem pewnej granicy.  
+>   
+> ## Kanon zasad panujących we wsi:  
+>> - Trzeba być pracowitym  
+>> - Trzeba szanować ziemię
+>> - Należy żyć zgodnie z etyką chrześcijańską
+>> - Trzeba żyć zgodnie z prawami ustalonymi przez gromadę
+>> - Należy żyć skromnie
+>> - Należy szanować rodzinę
+>> - Należy szanować starszych (wolę ojca)
+>> - Nie można żyć w związku z własną matką/macochą
+>> - Grzesznik zawsze zostanie ukarany przez Boga
+>   
+> Sytuacja Antka ilustruje konflikt między zasadami organizującymi życie w gromadzie a indywidualnymi pragnieniami. Sytuacja ta rozpatrywana jest w kategoriach tragizmu (ma wymiar tragiczny) przede wszystkim dlatego, że Antek ma świadomość tego, że jego pragnienia kolidują z zasadami moralnymi i z katolicka etyką seksualną.
