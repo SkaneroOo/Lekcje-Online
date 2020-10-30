@@ -4,6 +4,8 @@
 > * [15.10.2020 - Notatka z Chłopów](#<center>15.10.2020)
 > * [19.10.2020 - Chłopi - Kronika życia wiejskiego](#<center>19.10.2020)
 > * [23.10.2020 - Zło w Chłopach](#<center>23.10.2020)
+> * [26.10.2020](#<center>26.10.2020)
+> * [23.10.2020 - Dialektyzacja w Chłopach](#<center>30.10.2020)
 
 ---
 
@@ -91,3 +93,23 @@
 >> * Kozioł – Dominikowa – o świnie  
 >> * Ewka – Boryna – o ojcostwo  
 >> * Weronka – Hanka – o ojca  
+
+---
+
+# <center>30.10.2020
+
+---
+
+> ## Dialektyzacja w Chłopach
+> 
+> Bardzo precyzyjne zapisywanie narracji
+>> Narrator nie prowadzi nararcji w taki sam sposób  
+>>   
+>> Wyróżnia się 3 różne strategia narracyjne  
+>> * Realista, rzeczowy obserwator  
+>>   * Realistyczna obserwacja dominuje w przedstawianiu zdarzeń, prowadzeniu wątków fabularnych  
+>>     * ogólna odmiana polszczyzny
+>>     * Gwara prawie nie występuje
+>> * Wiejski gawendziarz posługujący się - przynajmniej takie robi wrażenie - gwarą  
+>> * Młodopolski poeta, który stylizuje swoje opisy wedłóg modnych w epoce nurtów  
+>> 
