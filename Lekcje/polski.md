@@ -108,8 +108,19 @@
 >> Wyróżnia się 3 różne strategia narracyjne  
 >> * Realista, rzeczowy obserwator  
 >>   * Realistyczna obserwacja dominuje w przedstawianiu zdarzeń, prowadzeniu wątków fabularnych  
->>     * ogólna odmiana polszczyzny
->>     * Gwara prawie nie występuje
+>>     * ogólna odmiana polszczyzny  
+>>     * Gwara prawie nie występuje  
 >> * Wiejski gawendziarz posługujący się - przynajmniej takie robi wrażenie - gwarą  
 >> * Młodopolski poeta, który stylizuje swoje opisy wedłóg modnych w epoce nurtów  
+>>     * Przenośnie  
+>>     * porównania  
+>>     * mnogość epitetów (malarskich, artystycznych)  
 >> 
+>> Lipce (dziś Lipce Rejmontowskie) to wieś znajdująca się w Polsce centralnej, na terenie tak zwanych gwar łowickich zaliczanych do dialektu mazowieckiego. Rejmont przebywał tam pracując jako dozorca przy kolei warszawsko-wiedeńskiej, a poczynione przez niego obserwacje stały się inspiracją do napisania powieści.  
+>> Pisarz zastosował dialektyzację na różnych poziomach języka:  
+>> * Poziom fonetyczny (wymowa słów)  
+>>   > dialektyzmy odnoszące się do brzmienia:
+>>   > * `krześcijanin`
+>>   > * ``
+>> * Dialektyzmy fleksyjne (odmiana wyrazów)
+>> * Dialektyzmy słowotwócze (tworzenie wyrazów)
