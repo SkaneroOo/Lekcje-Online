@@ -121,6 +121,16 @@
 >> * Poziom fonetyczny (wymowa słów)  
 >>   > dialektyzmy odnoszące się do brzmienia:
 >>   > * `krześcijanin`
->>   > * ``
 >> * Dialektyzmy fleksyjne (odmiana wyrazów)
 >> * Dialektyzmy słowotwócze (tworzenie wyrazów)
+
+
+> Stylizacja - Świadomy i celowy zabieg polegający na wprowadzeniu do utworu zespołów śrdków językowych, które upodabniają go do określonego stylu. Może być zastosowana w całym tekście, lub w wypowiedziach poszczególnych postaci. Zamierzony efekt pisarz osiąga najczęściej poprzez:  
+Użycie określonego słownictwa  
+Specyficznych form gramatycznych  
+Różnorodnych konstrukcji składniowych  
+Zabiegów fonetycznych  
+
+> Zadanie:  
+> Napisz wstęp do arkusza i wynotuj argumenty oraz informacje z zakończenia.  
+> Przeczytaj 2 pozostałe arkusze
