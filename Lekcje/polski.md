@@ -5,7 +5,8 @@
 > * [19.10.2020 - Chłopi - Kronika życia wiejskiego](#<center>19.10.2020)
 > * [23.10.2020 - Zło w Chłopach](#<center>23.10.2020)
 > * [26.10.2020](#<center>26.10.2020)
-> * [23.10.2020 - Dialektyzacja w Chłopach](#<center>30.10.2020)
+> * [30.10.2020 - Dialektyzacja w Chłopach](#<center>30.10.2020)
+> * [05.11.2020](#<center>05.11.2020)
 
 ---
 
@@ -125,12 +126,15 @@
 >> * Dialektyzmy słowotwócze (tworzenie wyrazów)
 
 
-> Stylizacja - Świadomy i celowy zabieg polegający na wprowadzeniu do utworu zespołów śrdków językowych, które upodabniają go do określonego stylu. Może być zastosowana w całym tekście, lub w wypowiedziach poszczególnych postaci. Zamierzony efekt pisarz osiąga najczęściej poprzez:  
-Użycie określonego słownictwa  
-Specyficznych form gramatycznych  
-Różnorodnych konstrukcji składniowych  
-Zabiegów fonetycznych  
+## **Stylizacja**
+> Świadomy i celowy zabieg polegający na wprowadzeniu do utworu zespołów środków językowych, które upodabniają go do określonego stylu. Może być zastosowana w całym tekście, lub w wypowiedziach poszczególnych postaci.  
+> Zamierzony efekt pisarz osiąga najczęściej poprzez:  
+> * Użycie określonego słownictwa  
+> * Specyficznych form gramatycznych  
+> * Różnorodnych konstrukcji składniowych  
+> * Zabiegów fonetycznych  
 
-> Zadanie:  
+## Zadanie:  
 > Napisz wstęp do arkusza i wynotuj argumenty oraz informacje z zakończenia.  
 > Przeczytaj 2 pozostałe arkusze
+
