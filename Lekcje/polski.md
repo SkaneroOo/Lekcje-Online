@@ -158,11 +158,26 @@
 
 ---
 
+## Szklane domy - utopia czy perspektywa?
+
 > - Pojawienie się - ponowne - ojca w życiu Cezarego
+>   > - Cezary spotyka ponownie ojca po usłyszeniu jak ktos podśpiewuje jego imię
+>   > - Dla Cezarego Polska jest odległą krainą za którą umarła jego matka, ale sam nie czuje się z tym krajem w żaden sposób związany
+>   > - Ojciec nie może bazpośrednio się ujawnić, ponieważ obawia się rozpoznania (był urzędnikiem, a potem należał do armii carskiej z której zdezerterował)
 > - Wspólna podróż do Polski
 >   - Motywy i rozterki Cezarego
+>     > - Miał świadomość, że nadal może przyłączyć się do rewolucji i być jej częścią
+>     > - Chciał pomóc ojcu
 >   - Obraz państwa pod władzą Bolszewików
+>     > - państwo jest w opłakanym stanie
+>     > - ludzie chcą opuścić to państwo
+>     > - ludzie są zmuszenie do płacenia za dalszą jazdę pociągiem
 > - Opowieść o szklanych domach (mit szklanych domów)
 >   - Definicja pojęcia utopia
+>     > - Idealny ustrój oparty na sprawiedliwości i solidarności
 >   - Opowieść Seweryna jako wieloaspektowa utopia
+>     > - Utopia pod względem materialnym
+>     > - Utopia pod względem architektury
+>     > - Utopia pod względem warunków życia
 >   - Ocena projektów powieści
+>     > - Seweryn opowiada o utopii w amoku, nie wiedząc co mówi.
