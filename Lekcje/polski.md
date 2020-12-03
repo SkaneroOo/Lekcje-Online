@@ -179,5 +179,10 @@
 >     > - Utopia pod względem materialnym
 >     > - Utopia pod względem architektury
 >     > - Utopia pod względem warunków życia
+>     > - Utopia pod względem ekonomicznym
+>     > - Utopia pod względem zdrowotnym
+>     > - Utopia pod względem estetycznym
+>     > - Utopia pod względem ekologicznym
+>     > - Utopia pod względem socjologicznym
 >   - Ocena projektów powieści
 >     > - Seweryn opowiada o utopii w amoku, nie wiedząc co mówi.
